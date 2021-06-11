@@ -1,0 +1,19 @@
+﻿Label;Variable;Description;Source
+densidad_poblacional ;Population density              ;Number of people per km2 (in scale of 100,000 people);https://github.com/MinCiencia/Datos-COVID19/blob/master/input/Otros/InformacionComunas.csv
+inmigrantes;Immigrants;Number of immigrants each 100,000 people;http://www.censo2017.cl/microdatos/
+poblacion;Population;Size of population (in scale of 100,000 people);https://github.com/MinCiencia/Datos-COVID19/blob/master/input/Otros/InformacionComunas.csv
+hacinamiento;Overcrowding;Number of people over number of households. Overcrowding = Population / Number of dwellings;http://www.censo2017.cl/microdatos/
+idse;Socioeconomic development index (SDI);It includes the economy component (monthly per capita income and poverty), education (average years of schooling), and housing and sanitation (good and acceptable housing material and sewerage or septic tank) .                                                                                                                         SDI = (Log-income index + Poverty index + Schooling index*2 + Housing materiality index + Sanitation index) / 6;http://ochisap.cl/index.php/nivel-socioeconomico-y-de-salud-de-las-comunas-de-chile
+indice_ruralidad;Rural index                     ;It includes the percentage of rural population, the proportion of local employment occupied in primary sectors and the population density;
+casos_activos;Active cases                    ;Number of active cases per commune. An active confirmed case is understood to be a living person who meets the definition criteria of suspected cases with a positive sample of SARS-CoV-2, whose date of onset of symptoms in the notification is less than or equal to 11 days to date of the current report;https://github.com/MinCiencia/Datos-COVID19
+uci;ICU   ;Number of patients in Intensive Care Unit (ICU) per region;https://github.com/MinCiencia/Datos-COVID19
+fallecidos;Deaths;Number of deaths per commune according to their residence;https://github.com/MinCiencia/Datos-COVID19
+casos_con_sintomas;Symptomatic cases;Number of new confirmed cases per day according to the result of the diagnosis and that have presented symptoms;https://github.com/MinCiencia/Datos-COVID19
+casos_sin_sintomas;Asymptomatic cases;Number of new confirmed cases per day according to the result of the diagnosis and that have no symptoms;https://github.com/MinCiencia/Datos-COVID19
+pcr;PCR;Number of PCR tests;https://github.com/MinCiencia/Datos-COVID19
+capital_regional;Regional capital;If the commune is a regional capital (1 = yes and 0 = no);https://www.bcn.cl/siit/nuestropais/div_pol-adm.htm
+capital_provincial;Province capital;If the commune is a province capital (1 = yes and 0 = no);https://www.bcn.cl/siit/nuestropais/div_pol-adm.htm
+aeropuerto;Commercial airport;Presence or absence of commercial Airport (1 = presence and 0 = absence);https://www.dgac.gob.cl/aeropuertos/red-aeroportuaria-nacional/ 
+puerto;Commercial harbor;Presence or absence of commercial harbor (1 = presence and 0 = absence);https://www.camport.cl/estadisticas/
+segunda_cuarentena;Lockdown indicator;If it is the second time the commune is in lockdown (1 = second lockdown and 0 = first lockdown);
+tiempo;Duration of lockdown (in days);Number of days a commune is in lockdown;https://github.com/MinCiencia/Datos-COVID19
