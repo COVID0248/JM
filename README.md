@@ -13,7 +13,7 @@ A description of each file and folder is provided below:
 
 If you find this code helpful and use it in your work, please cite our paper:
 
-> Pavani, J.; Cerda, J.; Gutiérrez, L.; Varas, I.; Gutiérrez, I.; Jofré, L.; Ortiz, O.; Arriagada, G.: Factors associated to the duration of COVID-19 lockdowns in Chile. > *Scientific Reports*, 12(9516), 1-7, 2022. [[DOI](https://doi.org/10.1038/s41598-022-13743-8)]
+> Pavani, J.; Cerda, J.; Gutiérrez, L.; Varas, I.; Gutiérrez, I.; Jofré, L.; Ortiz, O.; Arriagada, G.: Factors associated to the duration of COVID-19 lockdowns in Chile. *Scientific Reports*, 12(9516), 1-7, 2022. [[DOI](https://doi.org/10.1038/s41598-022-13743-8)]
 
 ```bibtex
 @article{Pavani2022,
