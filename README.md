@@ -18,7 +18,8 @@ If you find this code helpful and use it in your work, please cite our paper:
 ```bibtex
 @article{Pavani2022,
     title={Factors associated to the duration of COVID-19 lockdowns in Chile},
-    author={Pavani, Jessica and Cerda, Jaime and Guti{\'e}rrez, Luis and Varas, Ines and Guti{\'e}rrez, Iv{\'a}n} and Jofr{\'e}, Leonardo and Ortiz, Oscar and Arriagada, Gabriel},
+    author={Pavani, Jessica and Cerda, Jaime and Guti{\'{e}}rrez, Luis and Varas, Ines and Guti{\'{e}}rrez, Iv{\'{a}}n} and Jofr{\'{e}}, 
+    Leonardo and Ortiz, Oscar and Arriagada, Gabriel},
     journal={Scientific Reports},
     volume={12},
     number={9516},
