@@ -4,7 +4,6 @@
 # ******************************************************************************************** #
 # ******************************************************************************************** #
 # Reading data in a short format
-setwd("C:/Users/jlepa/OneDrive/Área de Trabalho/COVID")
 short_data <- read.csv("short_data.csv", sep = ";")
 
 # Excluding NA
